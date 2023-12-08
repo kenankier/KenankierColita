@@ -1,0 +1,25 @@
+
+h1 {
+    text-align:left;
+  
+}
+h2 {
+    text-align:justify;
+}
+
+img {
+    margin-left: 0.2rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+    color:darkslategrey;
+}
+footer {
+    visibility: hidden;
+    color:darkslategrey;
+}
+header {
+    visibility: hidden;
+    color:darkslategrey;
+}
